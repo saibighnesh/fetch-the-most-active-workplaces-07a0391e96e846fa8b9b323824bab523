@@ -1,4 +1,4 @@
-<h1 align="center">Red Planet Staffing</h1>
+<h1 align="center">Red Planet</h1>
 <img src="./assets/red-planet.webp" alt="Red Planet Staffing" >
 
 Welcome to the red planet! At just over one million people as of the 2050 census, Martian settlements are flourishing. As the leading staffing marketplace on Mars, Red Planet connects workplaces with workers to fill shifts.
