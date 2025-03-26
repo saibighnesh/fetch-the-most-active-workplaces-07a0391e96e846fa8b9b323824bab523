@@ -58,18 +58,3 @@ Submit your solution by creating a pull request (PR) on this repository. Please 
 - `GET /workplaces`: Get workplaces.
 
 ### Shifts
-
-- `POST /shifts`: Create a shift.
-  - Body: [`createShiftSchema`](./src/modules/shifts/shifts.schemas.ts).
-- `GET /shifts/:id`: Get a shift by ID.
-  - Path parameters:
-    - `:id`: Shift ID.
-- `POST /shifts/:id/claim`: Claim a shift.
-  - Path parameters:
-    - `:id`: Shift ID.
-  - Body:
-    - `workerId`: Worker ID.
-- `POST /shifts/:id/cancel`: Cancel a claimed shift.
-  - Path parameters:
-    - `:id`: Shift ID.
-- `GET /shifts`: Get shifts.
