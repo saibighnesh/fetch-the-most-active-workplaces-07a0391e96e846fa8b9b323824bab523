@@ -53,8 +53,3 @@ Submit your solution by creating a pull request (PR) on this repository. Please 
 - `POST /workplaces`: Create a workplace.
   - Body: [`createWorkplaceSchema`](./src/modules/workplaces/workplaces.schemas.ts).
 - `GET /workplaces/:id`: Get a workplace by ID.
-  - Path parameters:
-    - `:id`: Workplace ID.
-- `GET /workplaces`: Get workplaces.
-
-### Shifts
